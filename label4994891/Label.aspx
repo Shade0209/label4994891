@@ -13,6 +13,7 @@
             <asp:label runat="server" Font-Bold="true" Text="Employes" /><br />
             <asp:label runat="server"  Text="Last Name" /><br />
             <asp:label runat="server"  Text="Firts Name" /><br />
+            <asp:label runat="server"  Text="Firts Name" /><br />
             <asp:label runat="server"  Text="Middle Initial" /><br />
         </div>
     </form> 
